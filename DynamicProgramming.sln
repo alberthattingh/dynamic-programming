@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{96E42F2F-57A6-4429-960E-7FFC91FBF61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{55F052C6-BF87-4CE6-A391-8D1B38FF760E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E42F2F-57A6-4429-960E-7FFC91FBF61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E42F2F-57A6-4429-960E-7FFC91FBF61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E42F2F-57A6-4429-960E-7FFC91FBF61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E42F2F-57A6-4429-960E-7FFC91FBF61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F052C6-BF87-4CE6-A391-8D1B38FF760E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F052C6-BF87-4CE6-A391-8D1B38FF760E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F052C6-BF87-4CE6-A391-8D1B38FF760E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F052C6-BF87-4CE6-A391-8D1B38FF760E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
